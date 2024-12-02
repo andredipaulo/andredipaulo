@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://portfolio-dipaulo.netlify.app/_next/image?url=%2Fimage%2Fandre.jpeg&w=384&q=75" align="center" style="width: 50%; heigth: 50%; border-radius: 50%" />
-</div>  
+  <img src="https://portfolio-dipaulo.netlify.app/_next/image?url=%2Fimage%2Fandre.jpeg&w=384&q=75" align="center" style="width: 50%; height: 50%; border-radius: 50%;" />
+</div>
   
 
 ### <div align="center">I'm André Di Paulo, a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
