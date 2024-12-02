@@ -3,27 +3,23 @@
 </div>
   
 
-### <div align="center">I'm André Di Paulo, a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
-  
+<div align="center">I'm André Di Paulo, a passionate full-stack developer 👨‍💻, working remotely as a freelancer since 2022 🚀.</div>
 
-- 🔭 I’m currently working on [Bdi Broker](https://bitbucket.org/leardi-developers/workspace/repositories/)  
+<div align="center">
+  <h2>🖥️ Frontend Development</h2>
+  <p>Sou apaixonado por criar interfaces dinâmicas e responsivas, utilizando as tecnologias mais modernas do mercado. Tenho experiência em <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>JavaScript</strong>, e <strong>TypeScript</strong>, além de frameworks e bibliotecas como <strong>React</strong> e <strong>Next.js</strong>. Para otimizar o desenvolvimento, também uso <strong>Bootstrap</strong>, <strong>Material UI</strong> e <strong>Styled Components</strong>. Para prototipação e design, trabalho com <strong>Figma</strong>.</p>
   
+  <h2>🔧 Backend Development</h2>
+  <p>No lado do servidor, sou familiarizado com <strong>PHP</strong> e o framework <strong>Laravel</strong> para construção de aplicações escaláveis. Também utilizo <strong>MySQL</strong> para gestão de bancos de dados e <strong>Nginx</strong> como servidor web, sempre focando em desempenho e segurança.</p>
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
+  <h2>☁️ DevOps</h2>
+  <p>Tenho experiência com <strong>AWS</strong> para gerenciamento de infraestruturas em nuvem, além de administrar ambientes Linux e controlar versões de código com <strong>Git</strong>. Também sou habilidoso em automação de tarefas e scripts com <strong>Bash</strong>.</p>
+</div>
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
-<br/>  
 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
 
 
 ### Frontend  
@@ -92,27 +88,7 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=andredipaulo&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
 <div align="center"></div>
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
