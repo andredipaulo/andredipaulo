@@ -1,11 +1,19 @@
 <div align="center" style="border-radius: 50%;" >
-  <img src="https://portfolio-dipaulo.netlify.app/_next/image?url=%2Fimage%2Fandre.jpeg&w=384&q=75" align="center" style="width: 30%; height: 30%" />
+  <img src="https://portfolio-dipaulo.netlify.app/_next/image?url=%2Fimage%2Fandre.jpeg&w=384&q=75" align="center" 
+    style="width: 30%; height: 28%; border-radius: 50%"/>
 </div>
   
 
-<div align="center">I'm André Di Paulo, a passionate full-stack developer 👨‍💻, working remotely as a freelancer since 2022 🚀.</div>
+<div align="center">
+  <h2>I'm André Di Paulo, a passionate full-stack developer 👨‍💻, working remotely as a freelancer since 2022 🚀.</h2>
+</div>
 
 <div align="center">
+  <h6></h6>
+  <a href="https://portfolio-dipaulo.netlify.app">My Portfólio.</a>
+</div>
+
+<div align="left">
   <h2>🖥️ Frontend Development</h2>
   <p>Sou apaixonado por criar interfaces dinâmicas e responsivas, utilizando as tecnologias mais modernas do mercado. Tenho experiência em <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>JavaScript</strong>, e <strong>TypeScript</strong>, além de frameworks e bibliotecas como <strong>React</strong> e <strong>Next.js</strong>. Para otimizar o desenvolvimento, também uso <strong>Bootstrap</strong>, <strong>Material UI</strong> e <strong>Styled Components</strong>. Para prototipação e design, trabalho com <strong>Figma</strong>.</p>
   
@@ -68,13 +76,13 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/https://github.com/andredipaulo" target="_blank">
+<a href="https://github.com/andredipaulo" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/andredipaulo/" target="_blank">
+<a href="https://linkedin.com/in/andredipaulo/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/andre.di.paulo/" target="_blank">
+<a href="https://instagram.com/andre.di.paulo/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
