@@ -1,5 +1,5 @@
 <div align="center" style="border-radius: 50%;" >
-  <img src="https://portfolio-dipaulo.netlify.app/_next/image?url=%2Fimage%2Fandre.jpeg&w=384&q=75" align="center" 
+  <img src="https://avatars.githubusercontent.com/u/63363140?v=4" align="center" 
     style="width: 30%; height: 28%; border-radius: 50%"/>
 </div>
   
